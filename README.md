@@ -1,0 +1,1 @@
+## This is a project that aims to create a searchable website out of Rev. A. Manner's Tulu-English Dictionary from 1886.  
