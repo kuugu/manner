@@ -1,0 +1,47 @@
+/* 
+    FIXME: 
+    (1) remove the references to google fonts and bring everything inhouse.  
+    (2) credit Karnata F Kittel Font Creators 
+*/ 
+
+* {
+    margin: 0px; 
+    padding: 0px; 
+}
+
+body {
+    min-height: 100vh;
+    min-width: 100vw;
+}
+
+.title {
+    font-family: "Cormorant Garamond", serif;
+    /* font-optical-sizing: auto; */
+    font-style: normal;
+
+    display: flex; 
+    flex-direction: column;
+    align-items: center;
+
+    background-color: lightblue;
+}
+
+.title-line-1 {
+    font-weight: 300;
+    font-size: 50px; 
+}
+
+.title-line-2 {
+    font-weight: 300;
+    font-size: 60px; 
+}
+
+.title-line-3 {
+    font-weight: 350;
+    font-size: 100px; 
+}
+
+p {
+    font-family: 'KarnataFKittel'; 
+    font-size: 60px;
+}
