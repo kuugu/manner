@@ -79,7 +79,7 @@ body {
 
 .progress-bar-viz-complete {
     background-color: lightgreen;
-    width: 2vw; 
+    width: 0.36vw; 
     height: 5px;
     border-radius: 5px;
 }
