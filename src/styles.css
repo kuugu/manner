@@ -4,11 +4,49 @@
 }
 
 body {
+    background-color: antiquewhite;
+
     min-height: 100vh;
     min-width: 100vw;
 
     display: flex;
     flex-direction: column;
+}
+
+.container-search-bar {
+    flex: 1 0 auto; 
+
+    display: flex; 
+    flex-direction: row; 
+    align-items: center;
+    justify-content: center;
+}
+
+.search-bar {
+    width: 1000px; 
+    height: 48px; 
+    border: 1px; 
+    border-style: solid;
+    border-radius: 30px;
+    border-color: #d3d3d3;
+
+    display: flex;
+    flex-direction: row;
+
+    padding-left: 30px;  
+    padding-right: 5px;   
+
+    background-color: white;
+}
+
+.search-bar-box {
+    flex: 1 0 auto; 
+
+    border-radius: 10px;
+    outline: none;
+    border: none;
+
+    font-size: 25px;
 }
 
 .title {
@@ -38,62 +76,23 @@ body {
     font-size: 100px; 
 }
 
-.search-bar {
-    flex: 1 0 auto; 
-
-    display: flex; 
-    align-items: center;
-    justify-content: center;
-
-}
-
-.search-bar-container {
-    height: 30px; 
-    width: 300px; 
-
-    padding: 2px; 
-
-    border: 2px;
-    border-color: lightgrey;
-    border-radius: 10px;
-    border-style: solid;
-
-    display: none; /* change this to flex */ 
-}
-
-.search-bar-input {
-    flex: 5 0 auto; 
-    border-radius: 10px;
-    font-size: 20px;
-}
-
-.search-bar-input:focus { 
-    outline: none;
-}
-
-.search-bar-icon {
-    padding-left: 2px; 
-    border-left: 2px; 
-    border-right: 0px; 
-    border-top: 0px; 
-    border-bottom: 0px; 
-    border-style: solid;
-    flex: 1 0 auto; 
-    color: lightgrey; 
-}
-
 .letters {
     font-family: 'KarnataFKittel'; 
     font-size: 40px; 
 
     display: flex;
-    flex-direction: row;
-    justify-content: center;
+    flex-direction: column;
     flex-wrap: wrap; 
-    align-items: flex-end;
 
     margin-bottom: 30px;
 
+}
+
+.letters-row {
+    display: flex; 
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap; 
 }
 
 .letter {
@@ -111,13 +110,8 @@ body {
     text-decoration: none;
 }
 
-.letter-link-wip {
-    color: orangered; 
-    text-decoration: none;
-}
-
 .letter-link-done {
-    color: lawngreen; 
+    color: #32CD32; 
     text-decoration: none;
 }
 
