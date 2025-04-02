@@ -10,7 +10,7 @@ let letters = [
 
 let letter_wip = 'ಅಂ'; 
 
-const letters_done = new Set<string>([]); 
+const letters_done = new Set<string>(['ಔ']); 
 
 
 for (let i=0; i<letters.length; i++) {
