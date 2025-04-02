@@ -1,9 +1,3 @@
-/* 
-    FIXME: 
-    (1) remove the references to google fonts and bring everything inhouse.  
-    (2) credit Karnata F Kittel Font Creators 
-*/ 
-
 * {
     margin: 0px; 
     padding: 0px; 
@@ -26,6 +20,7 @@ body {
     flex-direction: column;
     align-items: center;
 
+    margin-bottom: 50px;
 }
 
 .title-line-1 {
@@ -43,23 +38,102 @@ body {
     font-size: 100px; 
 }
 
+.search-bar {
+    flex: 1 0 auto; 
+
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+
+}
+
+.search-bar-container {
+    height: 30px; 
+    width: 300px; 
+
+    padding: 2px; 
+
+    border: 2px;
+    border-color: lightgrey;
+    border-radius: 10px;
+    border-style: solid;
+
+    display: none; /* change this to flex */ 
+}
+
+.search-bar-input {
+    flex: 5 0 auto; 
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+.search-bar-input:focus { 
+    outline: none;
+}
+
+.search-bar-icon {
+    padding-left: 2px; 
+    border-left: 2px; 
+    border-right: 0px; 
+    border-top: 0px; 
+    border-bottom: 0px; 
+    border-style: solid;
+    flex: 1 0 auto; 
+    color: lightgrey; 
+}
+
 .letters {
     font-family: 'KarnataFKittel'; 
     font-size: 40px; 
 
     display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap; 
+    align-items: flex-end;
+
+    margin-bottom: 30px;
+
+}
+
+.letter {
+    margin-left: 2.5px;
+    margin-right: 2.5px;
+}
+
+.letter:hover {
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.letter-link-yts {
+    color: black; 
+    text-decoration: none;
+}
+
+.letter-link-wip {
+    color: orangered; 
+    text-decoration: none;
+}
+
+.letter-link-done {
+    color: lawngreen; 
+    text-decoration: none;
+}
+
+.progress-bar {
+    display: flex;
     flex-direction: column;
-    align-items: center; 
+    justify-content: center;
+    align-items: center;
 
     margin-bottom: 30px; 
 }
 
 .progress-bar-title {
-    flex: 1 0 auto; 
-    justify-content: flex-end;
-    
     display: flex;
     flex-direction: column;
+    justify-content: center;
     align-items: center;
 
     font-family: "Cormorant Garamond", serif;
