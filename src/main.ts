@@ -8,11 +8,23 @@ let letters = [
     'ಯ', 'ರ', 'ಲ', 'ವ', 'ಶ', 'ಷ', 'ಸ', 'ಹ', 'ಳ'
 ]; 
 
+let letter_wip = 'ಅಂ'; 
+
+const letters_done = new Set<string>([]); 
+
+
 for (let i=0; i<letters.length; i++) {
     let curr_elem = document.createElement('div');
     let link = document.createElement('a'); 
     
-    link.className = "letter-link"; 
+    if (letters_done.has(letters[i])) {
+        link.className = "letter-link-done"; 
+    } else if (letter_wip === letters[i]) {
+        link.className = "letter-link-wip"; 
+    } else {
+        link.className = "letter-link-yts"; 
+    }
+
     link.href = "pages/" + letters[i] + ".html"; 
     link.textContent = letters[i];
     

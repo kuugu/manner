@@ -20,7 +20,7 @@ body {
     flex-direction: column;
     align-items: center;
 
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
 
 .title-line-1 {
@@ -38,8 +38,48 @@ body {
     font-size: 100px; 
 }
 
-.space-after-title {
+.search-bar {
     flex: 1 0 auto; 
+
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+
+}
+
+.search-bar-container {
+    height: 30px; 
+    width: 300px; 
+
+    padding: 2px; 
+
+    border: 2px;
+    border-color: lightgrey;
+    border-radius: 10px;
+    border-style: solid;
+
+    display: none; /* change this to flex */ 
+}
+
+.search-bar-input {
+    flex: 5 0 auto; 
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+.search-bar-input:focus { 
+    outline: none;
+}
+
+.search-bar-icon {
+    padding-left: 2px; 
+    border-left: 2px; 
+    border-right: 0px; 
+    border-top: 0px; 
+    border-bottom: 0px; 
+    border-style: solid;
+    flex: 1 0 auto; 
+    color: lightgrey; 
 }
 
 .letters {
@@ -52,7 +92,7 @@ body {
     flex-wrap: wrap; 
     align-items: flex-end;
 
-    margin-bottom: 10px;
+    margin-bottom: 30px;
 
 }
 
@@ -66,8 +106,18 @@ body {
     cursor: pointer;
 }
 
-.letter-link {
+.letter-link-yts {
     color: black; 
+    text-decoration: none;
+}
+
+.letter-link-wip {
+    color: orangered; 
+    text-decoration: none;
+}
+
+.letter-link-done {
+    color: lawngreen; 
     text-decoration: none;
 }
 
@@ -81,21 +131,12 @@ body {
 }
 
 .progress-bar-title {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
     font-family: "Cormorant Garamond", serif;
     /* font-optical-sizing: auto; */
     font-style: normal;
-}
-
-.progress-bar-viz {
-    background-color: lightgrey;
-    width: 50vw; 
-    height: 5px;
-    border-radius: 5px;
-}
-
-.progress-bar-viz-complete {
-    background-color: lightgreen;
-    width: 0.36vw; 
-    height: 5px;
-    border-radius: 5px;
 }
