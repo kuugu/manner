@@ -19,13 +19,13 @@ for (let i=0; i<letters.length; i++) {
     
     if (letters_done.has(letters[i])) {
         link.className = "letter-link-done"; 
+        link.href = "pages/" + letters[i] + ".html"; 
     } else if (letter_wip === letters[i]) {
         link.className = "letter-link-wip"; 
     } else {
         link.className = "letter-link-yts"; 
     }
 
-    link.href = "pages/" + letters[i] + ".html"; 
     link.textContent = letters[i];
     
     curr_elem.className = "letter"; 
