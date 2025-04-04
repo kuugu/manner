@@ -1,3 +1,4 @@
+[BUG] Multiple HTML files (ex: pages/au) is not working with Vite, build a simple server? 
 [Layout] which layout is better? 
 [Dependency] remove the references to google fonts and bring everything inhouse.  
 [About] Credit Karnata F Kittel Font Creators 
