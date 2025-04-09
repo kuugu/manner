@@ -9,7 +9,7 @@ export function create_letters() {
         ['ಯ', 'ರ', 'ಲ', 'ವ', 'ಶ', 'ಷ', 'ಸ', 'ಹ', 'ಳ'] 
     ]; 
     
-    const letters_done = new Set<string>(['ಔ']); 
+    const letters_done = new Set<string>(['ಔ', 'ಅಂ', 'ಅಃ']); 
     
     
     for (let i=0; i<letters.length; i++) {
