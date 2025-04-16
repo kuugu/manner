@@ -4,3 +4,6 @@
 [About] Credit Karnata F Kittel Font Creators 
 [Color] remove night light, check all colors, the overall feel should be like sifting through Manner's book 
 [Layout] Use the basel mission logo somewhere on the home page 
+
+Italics: or, etc
+Romanized Indic: Bhūta 
