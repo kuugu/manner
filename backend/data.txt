@@ -2418,7 +2418,300 @@ Deposit, anything entrusted.
 
 ----P037
 
+ಆನಿಲೆ 
+s. 
+Bud, sprout, germ.
+2. soft timber. 
+--ದರಿಯುನಿ to bud, germinate. 
+ಬಿತ್ತದನಿಲ್ಲೆ a sprout from a seed.
+
+ಅನಿವಾರ 
+s. 
+Trouble, hardship. 
+2. starvation.
+
+ಅನಿಷ್ಟ 
+s.
+Something unpleasant. 
+2. adversity. 
+3. displeasure.
+
+ಅನೀತಿ 
+s. 
+Injustice, wrong.
+
+ಅನು 
+pref. 
+After, like, under, along etc.
+
+ಅನುಕಾಲ see ಅನುದಿನ. 
+
+ಅನುಕೂಲ 
+s. 
+Agreement.
+2. convenience. 
+3. help, aid.
+adj. 
+Convenient, helpful. 
+--ಆಪಿನಿ to be convenient. 
+--ಮಳ್ಪುನಿ to make convenient, arrange.
+
+ಅನುಕ್ರಮಣಿಕೆ 
+s.
+Arrangement, order. 
+2. an index, table of contents.
+
+ಅನುಗ್ರಹ 
+s. 
+Favour, regard, mercy, grace.
+
+ಅನುತನ 
+s.
+Opportunity, fitness. 
+--ತೂಪಿನಿ to watch for an opportunity.
+
+ಅನುದಿನ 
+adv 
+Daily.
+
+ಅನುಪಕಾರ 
+s. 
+Unkindness, disfavour.
+
+ಅನುಪತ್ಯ 
+s. 
+Indigence, necessity, need, want of means. 
+2. inconvenience.
+
+ಅನುಭವ 
+s. 
+Enjoyment, suffering 
+2. experience.
+
+ಅನುಭವಿಪುನಿ 
+v. a.
+To enjoy. 
+2. to experience. 
+
+ಅನುಭೋಗ 
+s. 
+Enjoyment.
+
+ಅನುಮತಿ 
+s. 
+Consent, agreement.
+
+ಅನುಮಾನ 
+s. 
+Doubt, suspicion, conjecture, surmise.
+2. fear. 
+--ಮಳ್ಪುನಿ  to doubt, suspect.
+
+ಅನುರಾಗ 
+s. 
+Love, regard, passion.
+
+ಅನುರೂಪ 
+s. 
+Likeness, resemblance.
+
+ಅನುಲೇಪ 
+s. 
+Anointing, besmearing.
+
+ಅನುವಂದಿಗೆ 
+s. 
+Consent.
+
+ಅನುವಾರ see ಅನಿವಾರ.
+
+ಅನುಸಾರ 
+s. 
+Imitation, following. 
+--ಆದ್ according to.
+
+ಅನೆಪಿನಿ, ಅನೆಪುನಿ (ಅನೆ) 
+v. a. 
+To touch. 
+2. to hug, embrace.
+
+ಅನೆವುನಿ see ಅಣೆವುನಿ. 
+
+ಅನೇಕ 
+adj.
+Much, many, plenty.
+
+ಅನ್ಪಿನಿ (ಅನ್) 
+v.a. 
+To say, speak; cf. ಅಂದ್ ದ್, ಇನ್ಪಿನಿ etc.
+
+ಅನ್ಯ see ಅಣ್ಯ. 
+
+ಅನ್ಯ 
+adj.
+Foreign, different, strange.
+
+ಅನ್ಯಜಾತಿ 
+s. 
+A different class or caste. 
+--ದಾಯೆ a person of a different caste or creed, a stranger.
+
+ಅನ್ಯದೇಶ 
+s. 
+A foreign country.
+
+ಅನ್ಯಭಾಷೆ 
+s.
+A foreign language.
+
+ಅನ್ಯಮನ್ಯ see ಅನ್ಯೋನ್ಯ. 
+
+ಅನ್ಯಾಯ 
+s.
+Injustice, wrong, iniquity.
+adj.
+Unjust, unreasonable. 
+--ದಾಯೆ an unjust person. 
+
 ----P038
+
+ಅನ್ಯೋನ್ಯ 
+s.
+Communion, fellowship, friendship.
+
+ಅಪ 
+pref. 
+denoting inferiority, privation, separation, contrariety etc.; also ಅವ.
+
+ಅಪಕಾರ 
+s. 
+An unkindness, ill-turn, injury. 
+2. malice, hatred.
+
+ಅಪಕೀರ್ತಿ 
+s. 
+Reproach, disgrace, infamy.
+
+ಅಪಗ 
+adv.
+Then; also ಆಪಗ. 
+
+ಅಪಚಾರ 
+s. 
+Impoliteness, insult. 
+2. fault.
+
+ಅಪಜಯ 
+s. 
+Defeat, overthrow, loss.
+
+ಅಪದ್ಧ 
+s. 
+A lie; see ಅಬದ್ಧ.
+
+ಅಪನಂಬಿಗೆ
+s. 
+Unbelief, distrust. 
+2. disbelief.
+
+ಅಪಮಾನ 
+s. 
+Disrespect.
+2. disgrace. 
+--ಮಳ್ಪುನಿ to disgrace.
+
+ಅಪರ 
+adj.
+Other opposite, latter. 
+--ಮಳ್ಪುನಿ funeral rites.
+
+ಅಪರಾಂನ, ಅಪರಾಹನ 
+s. 
+Afternoon.
+
+ಅಪರಾಧ 
+s. 
+Offence, guilt. 
+2. a punishment, fine.
+--ಕೊರ್ಪಿನಿ to pay a fine. 
+--ತುಂಬಾವುನಿ, ಪಾಡುನಿ to accuse of a crime, to condemn. 
+--ಮಳ್ಪುನಿ  to commit an offence, to transgress; to fine. 
+
+ಅಪರಿಮಿತ 
+adj. 
+Unmeasured, boundless, infinite.
+ 
+ಅಪರೂಪ, ಅಪ್ರುಪ 
+adj.
+Rare, uncommon. 
+2. scarce. 
+adv. 
+Seldom, rarely.
+
+ಅಪವಾದ 
+s. 
+Censure, blame. 
+2. a false accusation.
+3. exception (to a rule).
+
+ಅಪವಿತ್ರ 
+adj. 
+Unclean, impure.
+
+ಅಪಶಕುನ 
+s. 
+A bad omen.
+
+ಅಪಶಬ್ದ 
+s. 
+Ungrammatical language, a vulgar expression. 
+2. bad pronunciation.
+
+ಅಪಸಾಕ್ಷಿ 
+s. 
+False witness, perjury. 
+2. a false witness.
+
+ಅಪಸ್ವರ 
+s. 
+A discordant sound, hoarse voice.
+
+ಅಪಸ್ಮಾರ 
+s.
+Convulsions, epilepsy.
+
+ಅಪಹರಿಪುನಿ 
+v.a. 
+To take by violence, to usurp, plunder, rob, extort.
+
+ಅಪಹಾರ 
+s. 
+Usurpation, robbery.
+
+ಅಪಹಾಸ್ಯ 
+s. 
+Derision, irony.
+
+ಅಪಾತ್ರ 
+adj. 
+Unworthy, undeserving, unfit. 
+ಅಪಾತ್ರೆ an unworthy person.
+
+ಅಪಾಯ 
+s. 
+Danger, peril.
+2. misfortune, calamity.
+
+ಅಪಾರ 
+adj.
+Boundless, infinite.
+
+ಅಪೀಮು see ಅಫೀಮು. 
+
+ಅಪೀಲ್ 
+s. 
+An appeal.
+
 
 ----P039
 
