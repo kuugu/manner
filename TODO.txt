@@ -5,5 +5,6 @@
 [Color] remove night light, check all colors, the overall feel should be like sifting through Manner's book 
 [Layout] Use the basel mission logo somewhere on the home page 
 
-Italics: /TEXT/
+Italics: /TEXT/ i.e., num., 
 Romanized Indic: *TEXT* 
+Form Change: {TEXT} 
